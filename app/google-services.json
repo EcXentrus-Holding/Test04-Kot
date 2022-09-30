@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "750465863406",
+    "project_id": "test-sasoft",
+    "storage_bucket": "test-sasoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750465863406:android:d9677927e978ff1170edff",
+        "android_client_info": {
+          "package_name": "com.exstudio.test04_kot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750465863406-om8cgl7n8vd3mmtbiesklha2talom3qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr7ZJrC4wW-SO7QquCjETAta-y8zU8W4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750465863406-om8cgl7n8vd3mmtbiesklha2talom3qe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750465863406-a8826v1msvt5q7r0c7ci7af23cq20kid.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "EXStudio.Test4-Sto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
